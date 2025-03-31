@@ -9,16 +9,16 @@ This project contains **end-to-end tests** for an e-commerce shopping website us
 📂 **utils/** → Helper functions, test data, and fixture setup
 
 **This Project Covers**
-✔️ Login tests (valid, invalid, locked users)
-✔️ Adding and removing items from the cart in various ways, from different pages
-✔️ Checking out and verifying order summary, payment methods and general order flow
-✔️ Navigation between pages
+- ✔️ Login tests (valid, invalid, locked users)
+- ✔️ Adding and removing items from the cart in various ways, from different pages
+- ✔️ Checking out and verifying order summary, payment methods and general order flow
+- ✔️ Navigation between pages
 
 **Technologies Used**
-✔️ Playwright
-✔️ TypeScript
-✔️ Page Object Model (POM)
-✔️ Fixtures & Helpers
+- ✔️ Playwright
+- ✔️ TypeScript
+- ✔️ Page Object Model (POM)
+- ✔️ Fixtures & Helpers
 
 **Setup Instructions**
 1️⃣ Install dependencies
