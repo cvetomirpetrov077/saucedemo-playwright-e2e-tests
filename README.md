@@ -26,9 +26,9 @@ Ensure you have Node.js installed, then run: npm install
 2️⃣ Install Playwright Browsers  npx playwright install
 
 **Running Tests**
-Run all tests  - npx playwright test
-Run tests in **headed mode** (see browser UI) - npx playwright test --headed
-Run a specific test file:  npx playwright test tests/login.spec.ts  OR npx playwright test tests/spoppingTests.spec.ts
-Run a specific test: Enter .only after test. For example test.only('Verify a valid login'.. then run npx playwright test
+- Run all tests  - npx playwright test
+- Run tests in **headed mode** (see browser UI) - npx playwright test --headed
+- Run a specific test file:  npx playwright test tests/login.spec.ts  OR npx playwright test tests/spoppingTests.spec.ts
+- Run a specific test: Enter .only after test. For example test.only('Verify a valid login'.. then run npx playwright test
 
 Playwright documentation: https://playwright.dev/
