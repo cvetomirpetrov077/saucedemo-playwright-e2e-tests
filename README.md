@@ -21,9 +21,8 @@ This project contains **end-to-end tests** for an e-commerce shopping website us
 - Fixtures & Helpers
 
 **Setup Instructions**
-1️⃣ Install dependencies
-Ensure you have Node.js installed, then run: npm install
-2️⃣ Install Playwright Browsers  npx playwright install
+- Install dependencies Ensure you have Node.js installed, then run: npm install
+- Install Playwright Browsers  npx playwright install
 
 **Running Tests**
 - Run all tests  - npx playwright test
